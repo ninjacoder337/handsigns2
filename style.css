@@ -1,0 +1,13 @@
+
+#camera, #result
+{
+  border: 2px dashed rgb(1, 23, 23);
+  width: 350px;
+  height: 300px;
+}
+
+canvas {
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
